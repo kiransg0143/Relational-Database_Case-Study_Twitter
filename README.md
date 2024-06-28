@@ -1,4 +1,4 @@
-# # Relational-Database_Case-Study_Twitter
+## Relational-Database_Case-Study_Twitter
 
 ## Abstract
 This is a case study project on Twitter, a prominent social media platform. The project focuses on explaining the concept of schema design and relationships between entities in relational databases using Twitter as a case study. The case study offers a comprehensive dissection of Twitter's platform, highlighting its company overview, real-world challenges related to social interaction, and Twitter's solutions to these challenges. Additionally, the study includes an examination of Twitter's top features, a high-level schema design based on these features, an Entity Relationship Diagram (ERD) based on the schema design, and a concluding analysis.
